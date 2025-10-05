@@ -533,8 +533,7 @@ ul li a:hover::after {
 }
 
 .quiz-kanan .isi iframe{
-  background-color: rgba(58, 0, 1, .3);
-  backdrop-filter: blur(10px);
+  background-color: transparent;
   border-radius: 40px;
   border: #ffd93d 2px solid;
   padding: 20px;
